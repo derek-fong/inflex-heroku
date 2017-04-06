@@ -1,0 +1,11 @@
+{
+  "name": "inflex-heroku-api",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "meteor-node-stubs": "^0.2.6"
+  },
+  "devDependencies": {
+    "@types/meteor": "^1.4.1"
+  }
+}
